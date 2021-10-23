@@ -25,15 +25,15 @@ interests:
 # Education to show in About widget
 education:
   courses:
-  - course: PhD in Artificial Intelligence
-    institution: Stanford University
-    year: 2012
-  - course: MEng in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2009
-  - course: BSc in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2008
+  #- course: PhD in Artificial Intelligence
+   # institution: Stanford University
+    #year: 2012
+  - course: Ms in Geochemistry
+    institution: Nanjing University
+    year: 2019-now
+  - course: BS in Resource Exploration and Engineering
+    institution: Chonqing University of Science and Technology
+    year: 2015-2019
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
@@ -70,7 +70,7 @@ email: ""
 highlight_name: true
 ---
 
-Yu Wang is aMaster Candidate of Geochemistry at the Nanjing University Organic Geochemistry Lab. His research interests include Emeishan Large Lgenous Provine(ELIP) and end-Guadalupian Mass Extinction(EGME), Organic Geochemistry and Isotope Geochemistry. He is current working on deciphering the relationship between Wangpo bed(a clay bed formed around the time for ELIP eruption) and ELIP and its implication to the EGME with information from mineral content, major-trace element content, zircon U-Pb dating. During his study at NJU, he has developed a great interest in organic geochemistry and isotope geochemistry.
+Yu Wang is a Master Candidate of Geochemistry at the Nanjing University Organic Geochemistry Lab. His research interests include Emeishan Large Lgenous Provine(ELIP) and end-Guadalupian Mass Extinction(EGME), Organic Geochemistry and Isotope Geochemistry. He is current working on deciphering the relationship between Wangpo bed(a clay bed formed around the time for ELIP eruption) and ELIP and its implication to the EGME with information from mineral content, major-trace element content, zircon U-Pb dating. During his study at NJU, he has developed a great interest in organic geochemistry and isotope geochemistry.
 
 
 
