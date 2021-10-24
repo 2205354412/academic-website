@@ -9,7 +9,7 @@ headless: true
 # Order that this section appears on the page.
 weight: 40
 
-title: Experience
+title: Research Experience
 subtitle:
 
 # Date format for experience
@@ -22,8 +22,8 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
-  - title: CEO
-    company: GenCoin
+  - title: EGME-ELIP Master Degree Project
+    company: Nanjing University
     company_url: ''
     company_logo: org-gc
     location: California
@@ -36,15 +36,33 @@ experience:
         * Modelling
         * Deploying
         
-  - title: Professor of Semiconductor Physics
-    company: University X
+  - title: Bachlar Degree Project
+    company: Chongqing University of Science and Technology
     company_url: ''
     company_logo: org-x
-    location: California
+    location: Chongqing, China
+    date_start: '2016-01-01'
+    date_end: '2020-12-31'
+    description: Taught electronic engineering and researched semiconductor physics.
+   
+   - title: Geological Survey
+    company: Chongqing University of Science and Technology
+    company_url: ''
+    company_logo: org-x
+    location: Qinhai, China
+    date_start: '2016-01-01'
+    date_end: '2020-12-31'
+    description: Taught electronic engineering and researched semiconductor physics.
+    
+  - title: Inovation project
+    company: Chongqing University of Science and Technology
+    company_url: ''
+    company_logo: org-x
+    location: Qinhai, China
     date_start: '2016-01-01'
     date_end: '2020-12-31'
     description: Taught electronic engineering and researched semiconductor physics.
 
 design:
-  columns: '2'
+  columns: '4'
 ---
