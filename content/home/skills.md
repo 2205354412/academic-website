@@ -19,15 +19,15 @@ feature:
 - description: 90%
   icon: r-project
   icon_pack: fab
-  name: R
+  name: XRD
 - description: 100%
   icon: chart-line
   icon_pack: fas
-  name: Statistics
+  name: Major and Trace Element
 - description: 10%
   icon: camera-retro
   icon_pack: fas
-  name: Photography
+  name: Zircon U-Pb dating
 
 # Uncomment to use emoji icons.
 #- icon: ":smile:"
