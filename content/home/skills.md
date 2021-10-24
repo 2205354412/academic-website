@@ -9,26 +9,30 @@ headless: true
 # Order that this section appears on the page.
 weight: 30
 
-title: Skills
+title: Professiona Skills
 subtitle:
 
 # Showcase personal skills or business features.
 # - Add/remove as many `feature` blocks below as you like.
 # - For available icons, see: https://wowchemy.com/docs/page-builder/#icons
 feature:
-#- description: 90%
-  icon: r-project
-  icon_pack: fab
+- description: (Mineral Character)
+  icon: chart-line
+  icon_pack: fas
   name: XRD
-#- description: 100%
+#- description: (Volcanic tuff Source analysis; Ocean Redox Condition)
   icon: chart-line
   icon_pack: fas
   name: Major and Trace Element
-#- description: 10%
-  icon: camera-retro
+#- description: tuff dating
+  icon: chart-line
   icon_pack: fas
   name: Zircon U-Pb dating
-
+#- description: (Paleo-environment)
+  icon: chart-line
+  icon_pack: fas
+  name: Carbon isotope Stratigraphy
+  
 # Uncomment to use emoji icons.
 #- icon: ":smile:"
 #  icon_pack: "emoji"
